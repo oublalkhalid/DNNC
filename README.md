@@ -1,2 +1,2 @@
 # Deep Neural Network 
-Deep Neural Network Self Confidence 
+Deep Neural Network & One look on confidence probabilities 
